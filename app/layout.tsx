@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "QuickQ-新一代AI只能VPN加速",
+  title: "QuickQ-新一代AI智能VPN加速",
   description: "QuickQ 提供专业级全球网络访问加速，支持 QuickVPN 下载，稳定梯子工具保障。",
   keywords: ["quickQ", "quickQVPN", "quick", "VPN", "quiick", "quickQ下载", "quickvpn", "vpn下载", "翻墙", "梯子", "quick下载"],
 };
