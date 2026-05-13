@@ -1,0 +1,11 @@
+name = "quickq-clone"
+pages_build_output_dir = "out"
+workers_dev = false
+
+[build]
+command = "npm run build && npm run export"
+
+[env.production]
+routes = [
+  { pattern = "example.com", zone_name = "example.com" }
+]
